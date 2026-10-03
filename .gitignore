@@ -1,0 +1,16 @@
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Maven / Java
+backend/target/
+*.class
+
+# IDE and local configuration
+.idea/
+.vscode/
+*.iml
+.env
+.env.*
+!.env.example
